@@ -75,3 +75,26 @@ else
     Console.WriteLine("Thank you! There are now " + candyCurrentStock + " Candy left in stock.");
 
 }
+
+//Restock Flows
+
+
+Console.WriteLine("Thank you for updating sales info. Here’s what needs to be restocked: ");
+if (sodaCurrentStock < sodaRestockLevel)
+{
+    Console.WriteLine("Soda");
+}
+
+if (chipsCurrentStock < chipsRestockLevel)
+{
+    Console.WriteLine("Chips");
+}
+
+if (candyCurrentStock < candyRestockLevel)
+{
+    Console.WriteLine("Candy");
+}
+
+
+
+

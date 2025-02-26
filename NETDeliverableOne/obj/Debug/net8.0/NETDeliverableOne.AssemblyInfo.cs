@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NETDeliverableOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d52534cd02bdc8dcbe27df3221942c7601d6f89")]
 [assembly: System.Reflection.AssemblyProductAttribute("NETDeliverableOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NETDeliverableOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
