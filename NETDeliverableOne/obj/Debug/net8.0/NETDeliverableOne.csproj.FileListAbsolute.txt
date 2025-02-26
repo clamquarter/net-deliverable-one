@@ -1,0 +1,14 @@
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\bin\Debug\net8.0\NETDeliverableOne.exe
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\bin\Debug\net8.0\NETDeliverableOne.deps.json
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\bin\Debug\net8.0\NETDeliverableOne.runtimeconfig.json
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\bin\Debug\net8.0\NETDeliverableOne.dll
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\bin\Debug\net8.0\NETDeliverableOne.pdb
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\NETDeliverableOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\NETDeliverableOne.AssemblyInfoInputs.cache
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\NETDeliverableOne.AssemblyInfo.cs
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\NETDeliverableOne.csproj.CoreCompileInputs.cache
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\NETDeliverableOne.dll
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\refint\NETDeliverableOne.dll
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\NETDeliverableOne.pdb
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\NETDeliverableOne.genruntimeconfig.cache
+C:\Users\iwalker\source\repos\NETDeliverableOne\NETDeliverableOne\obj\Debug\net8.0\ref\NETDeliverableOne.dll
